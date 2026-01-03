@@ -1,0 +1,3 @@
+# Arduino Flash Agent Dependencies
+websockets>=10.0
+pyserial>=3.5
